@@ -36,8 +36,8 @@ The fine-tuned DistilBERT model achieves strong performance on the NER task. Usi
 - **Validation Accuracy (HuggingFace Trainer):** ~0.95
 
 The fine-tuned model and detailed results are available on HuggingFace:
-- [Fine-tuned Model](https://huggingface.co/aren-golazizian/distilbert-ner-finetuned-conll2003)
-- [Results](https://huggingface.co/aren-golazizian/results)
+- [Fine-tuned Model](https://huggingface.co/mohammad748/distilbert-conll2003-ner)
+- [Results](https://huggingface.co/mohammad748/results)
 
 ## Applications
 
